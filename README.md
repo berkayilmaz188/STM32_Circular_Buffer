@@ -1,4 +1,4 @@
-#Description Turkish 
+# Description Turkish
 
 Circular_Buffer ve Circular_Queue içermektedir.
 Buffer uzunluğu 512 ve Queue uzunluğu 16 tane 20 karakter uzunluktan oluşmaktadır.
@@ -15,7 +15,7 @@ Circular buffer kullanmadan ve daha sonra circular buffer kullanarak led'i kontr
 
 Özetle geliştirme amacım circular bufffer'in calısma mantıgını anlamaktı ve çok faydalı oldu.
 
-#Description English 
+# Description English 
 
 The project contains Circular_Buffer and Circular_Queue.
 The buffer length is 512, and the queue length is 16, each consisting of 20 characters.
