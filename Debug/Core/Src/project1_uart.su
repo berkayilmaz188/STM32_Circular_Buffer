@@ -1,0 +1,3 @@
+../Core/Src/project1_uart.c:51:6:UART_Flags_Init	16	static
+../Core/Src/project1_uart.c:66:6:Queue_Process_LED	56	static
+../Core/Src/project1_uart.c:273:6:CheckFunctions	16	static

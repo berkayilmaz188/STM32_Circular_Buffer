@@ -1,0 +1,6 @@
+../Core/Src/circular_buffer.c:44:6:Circular_Buffer_Init	1
+../Core/Src/circular_buffer.c:55:30:Circular_Buffer_IsEmpty	1
+../Core/Src/circular_buffer.c:62:30:Circular_Buffer_IsFull	1
+../Core/Src/circular_buffer.c:69:30:Circular_Buffer_Queue	3
+../Core/Src/circular_buffer.c:86:30:Circular_Buffer_Dequeue	3
+../Core/Src/circular_buffer.c:102:6:queue_read	18
